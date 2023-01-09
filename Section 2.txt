@@ -1,0 +1,11 @@
+1. 
+2. de positie waar je het item hebt staan
+3. het is een code die je item verplaatst door middel van een animatie
+4. "from" en "to" omdat die hetzelfde zijn als 0% en 100% 
+5. een pseudo selector is een trefwoord die je toevoegd aan een selector
+om een actie uit te voeren onder de gegeven omstandigheden
+6. hover selector, before selector, after selector.
+7. rood
+8. zwart
+9. het zet de tekst horizontaal in een lijn
+10. het is het moment dat je op een link klikt en het van kleur veranderd

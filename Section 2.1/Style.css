@@ -1,0 +1,6 @@
+.censore{
+clip-path: inset(60 60 110 60);
+position: absolute;
+margin-left: 40%;
+margin-top: 16%;
+}
